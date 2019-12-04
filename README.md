@@ -1,0 +1,2 @@
+# Movie Rental Application - RESTful-API
+A simple and comprehensive Javascrip Backend Application (RESTful-API-Service) for Movie Rental Application which is developed on the top of NodeJS Environment using ExpressJS Framework and other essential NPM Packages, such as - Lodash, @Hapi/Joi, Supertext, Jest and so forth. The application uses MongoDB NoSQL Database for storing data and it connects with MongoDB Database through Mongoose Framework.
